@@ -3,6 +3,9 @@ A reverse dictionary takes a description of a concept as input, and produces the
 
 Please cite the following paper in your publication if you are using PREDICT in your research:
 
+---
+Cite
+
 ```
 @article{malekzadeh2021predict,
   title={PREDICT: Persian Reverse Dictionary},
