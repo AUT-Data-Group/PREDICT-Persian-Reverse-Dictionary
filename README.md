@@ -15,4 +15,11 @@ Please cite the following paper in your publication if you are using PREDICT in 
 }
 ```
 
+Acknowledgements
+---
+We are grateful to Dr. Mohammad Bahrani (Allameh Tabataba’i University) for his consultation on corpus linguistics.
+We thank Dr. Maryam Danay Tous (University of Guilan) for enriching us with her knowledge in linguistics. Also, we
+thank the linguistics and Persian literature students of the University of Guilan for helping us to evaluate the proposed
+architectures using the mean opinion score.
+
 [MORE INFORMATION WILL BE ADDED SOON]
