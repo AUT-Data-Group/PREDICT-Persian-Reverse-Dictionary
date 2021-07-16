@@ -1,0 +1,17 @@
+synonyms_dir,files/data/synonyms-combined.pkl
+wordtags_dir,files/data/wordtags.pkl
+fasttext_dir,files/pretrained_models/cc.fa.300.bin
+fasttext_dict_dir,files/pretrained_models/fasttext.dict
+hamshahri_ft_dir,files/pretrained_models/hamshahri-char-100.dict
+hamshahri_wv_dir,files/pretrained_models/hamshahri-text-300.dict
+irblog2_wv_dir,files/pretrained_models/irblog2-text-300.dict
+twitter_wv_dir,files/pretrained_models/tweets-text-100.dict
+wordak_wv_dir,files/pretrained_models/combined-text-100.dict
+wiki_wv_200_dir,files/pretrained_models/wiki-text-200.dict
+wiki_wv_300_dir,files/pretrained_models/wiki-text-300.dict
+ranking_dir,files/data/ranking.pkl
+data_dir,files/data/fulldata-with-everything.pkl
+normalizer_dir,files/data/normalizer.dict
+stopwords_dir,files/data/stopwords.txt
+phrase_pos_data,files/data/phrase-pos-data.pkl
+phrase_single_pos_data,files/data/phrase-single-pos-data.pkl
