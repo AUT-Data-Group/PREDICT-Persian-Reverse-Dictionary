@@ -7,12 +7,12 @@ All of the files needed to run the jupyter notebooks are uploaded on Google Driv
 
 # Dataset
 
-We have introduced a novel dataset which can be used to develop Persian reverse dictionaries in the future. The dataset is a collection of 855217 words along with the phrases describing them. These phrases were extracted from the top three most well-known Persian dictionaries (including Amid, Moeen, and Dehkhoda), Persian Wikipedia, and a Persian Wordnet (called [Farsnet](http://farsnet.sbu.ac.ir)).
+We have introduced a novel dataset which can be used to develop Persian reverse dictionaries in the future. The dataset is a collection of 855217 words along with the phrases describing them. These phrases were extracted from the top three most well-known Persian dictionaries (including Amid, Moeen, and Dehkhoda), Persian Wikipedia, and a Persian Wordnet (called [Farsnet](http://farsnet.sbu.ac.ir)). Our new dataset can be downloaded through [Kaggle](https://kaggle.com/malekzadeharman/persian-reverse-dictionary-dataset).
 
 Cite
 ---
 
-Please cite the following paper in your publication if you are using PREDICT in your research:
+Please cite the following [paper](https://arxiv.org/abs/2105.00309) in your publication if you are using PREDICT in your research:
 ```
 @article{malekzadeh2021predict,
   title={PREDICT: Persian Reverse Dictionary},
