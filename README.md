@@ -24,9 +24,9 @@ Please cite the following [paper](https://arxiv.org/abs/2105.00309) in your publ
 
 Acknowledgements
 ---
+This research has been conducted with the support of the department of mathematics and computer science of [Amirkabir University of Technology (Tehran Polytechnic)](http://aut.ac.ir).
+
 We are grateful to Dr. Mohammad Bahrani (Allameh Tabataba’i University) for his consultation on corpus linguistics.
 We thank Dr. Maryam Danay Tous (University of Guilan) for enriching us with her knowledge in linguistics. Also, we
 thank the linguistics and Persian literature students of the University of Guilan for helping us to evaluate the proposed
 architectures using the mean opinion score.
-
-[MORE INFORMATION WILL BE ADDED SOON]
