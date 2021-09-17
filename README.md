@@ -1,6 +1,9 @@
 # PREDICT: Persian Reverse Dictionary
 A reverse dictionary takes a description of a concept as input, and produces the most appropriate word matching that description. Over the past decades, researchers have designed reverse dictionaries for many languages including English, Turkish, French, and Japanese. This repository contains the implementation details and source codes used for the development of the first intelligent Persian reverse dictionary (called "PREDICT"). 
 
+# Project Files
+
+All of the files needed to run the jupyter notebooks are uploaded on Google Drive, and are accessable through [this link](https://drive.google.com/drive/folders/1OzVUPS9dv3YlaVodm47cjuDl9ojiFzM7?usp=sharing).
 
 Cite
 ---
